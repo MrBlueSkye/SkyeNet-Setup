@@ -8,7 +8,7 @@ An APT-based package installer for my favourite tools!
 - sudo su
 - git clone https://github.com/MrBlueSkye/SkyeNet-Setup && cp SkyeNet-Setup/SkyeNet-Setup.py /usr/bin/SkyeNet-Setup
 - chmod +x /usr/bin/SkyeNet-Setup
-- sudo SkyeNet-Setup
+- SkyeNet-Setup
 
 # Credit
 
